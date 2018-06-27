@@ -1,0 +1,11 @@
+1 - Faça a busca em IMAGENS no Google
+
+2 - Role a página para baixo até o limite 
+
+3 - Abrir CONSOLE no Google Chrome
+
+4 - Copiar o script em 'faz_csv.js' e executar no console
+
+5 - Copie o arquivo urls.txt em sua pasta de Download para esta pasta
+
+6 - Execute o comando: python download_images.py -u urls.txt -o <pasta>
